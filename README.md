@@ -1,4 +1,4 @@
-<img src = https://www.linkedin.com/in/benson-mugure-017153196/detail/background-image/>
+<img src = https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbor.forbes.com%2Fthumbor%2F711x432%2Fhttps%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f719abd2debb523bf3f2fdc%2FAurora-over-Cameron-River-with-Autumn-Colours%2F960x0.jpg%3Ffit%3Dscale&imgrefurl=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjamiecartereurope%2F2021%2F10%2F11%2Fwere-overdue-an-all-planet-display-of-aurora-and-7-other-things-you-didnt-know-about-the-northern-lights%2F&tbnid=OfuCo7ldFaQWoM&vet=12ahUKEwi0nubvs-rzAhXM_4UKHYMxBGUQMygIegUIARDbAQ..i&docid=c4LmPBIfCxaNtM&w=711&h=432&q=Aurora&ved=2ahUKEwi0nubvs-rzAhXM_4UKHYMxBGUQMygIegUIARDbAQ>
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius
 <br>

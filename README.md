@@ -1,4 +1,4 @@
-<img src =https://photos.google.com/photo/AF1QipO003ZbhlZ2oquL99N6DE2JUV04QeCOxW3OkKoK>
+<img src =https://photos.google.com/photo/AF1QipO003ZbhlZ2oquL99N6DE2JUV04QeCOxW3OkKoK width= auto height = auto>
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius
 <br>

@@ -27,6 +27,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href= https://medium.com/@b.mugure/are-african-fintech-monopolies-guaranteed-to-be-unicorns-89e588bedc4f target=_blank><strong>Are African Fintech Monopolies Guaranteed To Be Unicorns?
+</strong></a>
+<a href= https://medium.com/@b.mugure/what-exactly-happens-when-you-type-ls-l-c-and-hit-enter-in-a-shell-e5516aea4436 target=_blank><strong>What exactly happens when you type ls -l *.c and hit Enter in a shell
+</strong></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

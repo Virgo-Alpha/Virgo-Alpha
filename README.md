@@ -33,6 +33,28 @@
 <hr>
 <a href= https://medium.com/@b.mugure/what-exactly-happens-when-you-type-ls-l-c-and-hit-enter-in-a-shell-e5516aea4436 target=_blank><strong>What exactly happens when you type ls -l *.c and hit Enter in a shell
 </strong></a>
+<br>
+<hr>
+<a href= http://manenoz.com/2020/07/30/hatma/ target=_blank><strong>Hatma
+</strong></a>
+<br>
+<hr>
+<a href= http://manenoz.com/2020/09/25/set-a-thief/ target=_blank><strong>Set A Thief
+</strong></a>
+<br>
+<hr>
+<a href= http://manenoz.com/2020/10/02/face-off/ target=_blank><strong>Face Off
+</strong></a>
+<br>
+<hr>
+<a href= http://manenoz.com/2020/09/16/waraka/ target=_blank><strong>Waraka
+</strong></a>
+<br>
+<hr>
+<a href= http://manenoz.com/2020/09/29/knots/ target=_blank><strong>Knots
+</strong></a>
+<br>
+<hr>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

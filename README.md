@@ -1,3 +1,4 @@
+<img src = https://www.linkedin.com/in/benson-mugure-017153196/detail/background-image/>
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius
 <br>

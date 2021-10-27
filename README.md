@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius</h3>
-
+<img src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966" width="100px" data-canonical-src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgo-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="virgo-alpha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virgo-alpha" alt="virgo-alpha" /></a> </p>

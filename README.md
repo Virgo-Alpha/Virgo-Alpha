@@ -37,25 +37,25 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
-<li><a href= https://medium.com/@b.mugure/are-african-fintech-monopolies-guaranteed-to-be-unicorns-89e588bedc4f target=_blank><strong>Are African Fintech Monopolies Guaranteed To Be Unicorns?
+<li><a href= "https://medium.com/@b.mugure/are-african-fintech-monopolies-guaranteed-to-be-unicorns-89e588bedc4f" target="_blank"><strong>Are African Fintech Monopolies Guaranteed To Be Unicorns?
 </strong></a>
   </li>
-<li> <a href= https://medium.com/@b.mugure/what-exactly-happens-when-you-type-ls-l-c-and-hit-enter-in-a-shell-e5516aea4436 target=_blank><strong>What exactly happens when you type ls -l *.c and hit Enter in a shell
+<li> <a href= "https://medium.com/@b.mugure/what-exactly-happens-when-you-type-ls-l-c-and-hit-enter-in-a-shell-e5516aea4436" target="_blank"><strong>What exactly happens when you type ls -l *.c and hit Enter in a shell
 </strong></a>
   </li>
-<li> <a href= http://manenoz.com/2020/07/30/hatma/ target=_blank><strong>Hatma
+<li> <a href= "http://manenoz.com/2020/07/30/hatma/" target="_blank"><strong>Hatma
 </strong></a>
   </li>
-<li> <a href= http://manenoz.com/2020/09/25/set-a-thief/ target=_blank><strong>Set A Thief
+<li> <a href= "http://manenoz.com/2020/09/25/set-a-thief/" target="_blank"><strong>Set A Thief
 </strong></a>
   </li>
-<li> <a href= http://manenoz.com/2020/10/02/face-off/ target=_blank><strong>Face Off
+<li> <a href= "http://manenoz.com/2020/10/02/face-off/" target="_blank"><strong>Face Off
 </strong></a>
   </li>
-<li> <a href= http://manenoz.com/2020/09/16/waraka/ target=_blank><strong>Waraka
+<li> <a href= "http://manenoz.com/2020/09/16/waraka/" target="_blank"><strong>Waraka
 </strong></a>
   </li>
-<li> <a href= http://manenoz.com/2020/09/29/knots/ target=_blank><strong>Knots
+<li> <a href= "http://manenoz.com/2020/09/29/knots/" target="_blank"><strong>Knots
 </strong></a>
   </li>
   </ul>

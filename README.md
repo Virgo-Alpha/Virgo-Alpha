@@ -37,6 +37,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href= "https://medium.com/@b.mugure/how-to-organically-grow-the-kenyan-film-industry-a-gll-case-study-db4a91181ca2" target="_blank"><strong>How to Organically Grow the Kenyan Film Industry: A GLL Case Study
+</strong></a>
+  </li>
 <li><a href= "https://medium.com/@b.mugure/are-african-fintech-monopolies-guaranteed-to-be-unicorns-89e588bedc4f" target="_blank"><strong>Are African Fintech Monopolies Guaranteed To Be Unicorns?
 </strong></a>
   </li>

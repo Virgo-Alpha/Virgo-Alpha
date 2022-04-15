@@ -10,19 +10,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virgo-alpha" alt="virgo-alpha" /></a> </p>
 <h2> About Me:</h2>
 <hr>
-- 🔭 I’m currently working on [Low-level and Web Development](https://github.com/Virgo-Alpha/alx-low_level_programmingX.)
+- 🔭 I’m currently working on [Web Development]
 
-- 🌱 I’m currently learning **Python, Java, C**
+- 🌱 I’m currently learning **Python, JS-ES6, React**
 
 - 👯 I’m looking to collaborate on [DARQ](https://github.com/Virgo-Alpha/AlphaPython)
 
-- 🤝 I’m looking for help with **Smart Contracts, Distributed Ledgers, Making a digital Currency and No-code Development**
+- 🤝 I’m looking for help with **Smart Contracts, Distributed Ledgers, Machine Learning and Quantum Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Virgo-Alpha?tab=projects](https://github.com/Virgo-Alpha?tab=projects)
 
 - 📝 I regularly write articles on [https://medium.com/@b.mugure](https://medium.com/@b.mugure)
 
-- 💬 Ask me about **Front-End Development, Fintech**
+- 💬 Ask me about **Front-End Development, Fintech, Start-ups**
 
 - 📫 How to reach me **b.mugure@alustudent.com**
 

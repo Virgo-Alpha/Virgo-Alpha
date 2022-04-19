@@ -37,6 +37,12 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+      <li><a href= "https://medium.com/@b.mugure/the-circular-economy-how-to-save-both-our-economy-and-our-environment-ce6c344479bb" target="_blank"><strong>The Circular Economy: How to save both our Economy and our Environment
+</strong></a>
+  </li>
+   <li><a href= "https://medium.com/@b.mugure/mcis-how-to-save-africa-the-rest-of-the-3rd-world-3244240308b5" target="_blank"><strong>MCIs: How to save Africa and the rest of the third World
+</strong></a>
+  </li>
   <li><a href= "https://medium.com/@b.mugure/how-to-organically-grow-the-kenyan-film-industry-a-gll-case-study-db4a91181ca2" target="_blank"><strong>How to Organically Grow the Kenyan Film Industry: A GLL Case Study
 </strong></a>
   </li>

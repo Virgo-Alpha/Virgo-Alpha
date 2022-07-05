@@ -12,7 +12,7 @@
 <hr>
 - 🔭 I’m currently working on [Web Development]
 
-- 🌱 I’m currently learning **Python, JS-ES6, React**
+- 🌱 I’m currently learning **Django, React, Tailwind**
 
 - 👯 I’m looking to collaborate on [DARQ](https://github.com/Virgo-Alpha/AlphaPython)
 

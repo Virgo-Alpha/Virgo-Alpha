@@ -37,6 +37,13 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+<li><a href= "https://medium.com/@b.mugure/journey-to-original-thought-a4aff023f01c" target="_blank"><strong>
+Journey to Original Thought
+</strong></a>
+  </li>
+<li><a href= "https://www.omprakash.org/blog/from-my-corner-of-the-circle" target="_blank"><strong>From my Corner of the Circle
+</strong></a>
+  </li>
       <li><a href= "https://medium.com/@b.mugure/the-circular-economy-how-to-save-both-our-economy-and-our-environment-ce6c344479bb" target="_blank"><strong>The Circular Economy: How to save both our Economy and our Environment
 </strong></a>
   </li>

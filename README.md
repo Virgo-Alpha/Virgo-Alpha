@@ -1,3 +1,4 @@
+<img src="https://photos.app.goo.gl/iCTgi1qQ6cHNQHfm6" alt="The King is but a father">
 
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius

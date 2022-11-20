@@ -1,9 +1,9 @@
-<img src="https://photos.app.goo.gl/iCTgi1qQ6cHNQHfm6" alt="The King is but a father">
+
 
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius
 <br>
-<img src="https://photos.app.goo.gl/iCTgi1qQ6cHNQHfm6" width="100px" data-canonical-src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" style="max-width: 100%;">
+<img src="https://photos.app.goo.gl/iCTgi1qQ6cHNQHfm6" alt="The King is but a father" style="max-width: 100%;">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgo-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="virgo-alpha" /> </p>

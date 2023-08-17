@@ -7,27 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgo-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="virgo-alpha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virgo-alpha" alt="virgo-alpha" /></a> </p>
-<h2> About Me:</h2>
-<hr>
-- 🔭 I’m currently working on [Web Development]
-
-- 🌱 I’m currently learning **Django, React, Tailwind**
-
-- 👯 I’m looking to collaborate on [DARQ](https://github.com/Virgo-Alpha/AlphaPython)
-
-- 🤝 I’m looking for help with **Smart Contracts, Distributed Ledgers, Machine Learning and Quantum Computing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Virgo-Alpha?tab=projects](https://github.com/Virgo-Alpha?tab=projects)
-
-- 📝 I regularly write articles on [https://medium.com/@b.mugure](https://medium.com/@b.mugure)
-
-- 💬 Ask me about **Front-End Development, Fintech, Start-ups**
-
-- 📫 How to reach me **b.mugure@alustudent.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/benson-mugure-017153196/](https://www.linkedin.com/in/benson-mugure-017153196/)
-
-- ⚡ Fun fact **I play chess**
 
 
 <h2>Some Programming humor For You:<img align="center" src="https://camo.githubusercontent.com/b6d35fb48e8172f046a782ed357a0d5180b4751809f8e221d934b478072abe42/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f55514453427a667969424b766746635354772f67697068792e6769663f6369643d656366303565343770336364353133617862656b336635367469336a7a697a713868696e637732306a61757979667977267269643d67697068792e676966" width="32px" data-canonical-src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&amp;rid=giphy.gif" style="max-width: 100%;"></a></h2>

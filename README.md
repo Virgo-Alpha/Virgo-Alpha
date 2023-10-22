@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
-<h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius
+<h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius </h3>
 <br>
 <!-- <img src="https://lh3.googleusercontent.com/pw/AIL4fc8rtw2GNHv8yFr1PSHq3xemHmJHYUWFXo55kdTnVW6kHaC8M1qMh5wekfprTcZpI1l0WKrXot-YUxrBRaa1H7GTlEkfGseIkp85zKKJnLpMtVxzeI7Y=w2400" alt="The King is but a father" style="max-width: 100%;"> -->
-- 💡 My expertise spans Software Engineering, Web Development and Data Science, from **data preprocessing** to **model deployment**
+💡 My expertise spans Software Engineering, Web Development and Data Science, from **data preprocessing** to **model deployment**
   
-- 💫 I'm also well versed in **Business Intelligence and Data Analytics**
+💫 I'm also well versed in **Business Intelligence and Data Analytics**
   
-- 🌱 I’m currently learning about **Data Engineering**
+🌱 I’m currently learning about **Data Engineering**
 
-- 👯 I’m looking to collaborate on **open-source projects**
+👯 I’m looking to collaborate on **open-source projects**
 
-- 💬 Ask me about **Python, SQL, Power BI and MLOps**
+💬 Ask me about **Python, SQL, Power BI and MLOps**
 
-- 📫 Reach me on **b.mugure@alustudent.com**
+📫 Reach me on **b.mugure@alustudent.com**
 
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgo-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="virgo-alpha" /> </p>
 

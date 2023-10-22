@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius </h3>
 <br>
 <!-- <img src="https://lh3.googleusercontent.com/pw/AIL4fc8rtw2GNHv8yFr1PSHq3xemHmJHYUWFXo55kdTnVW6kHaC8M1qMh5wekfprTcZpI1l0WKrXot-YUxrBRaa1H7GTlEkfGseIkp85zKKJnLpMtVxzeI7Y=w2400" alt="The King is but a father" style="max-width: 100%;"> -->
-- 💡 My expertise spans Software Engineering, Web Development and Data Science, from **data preprocessing** to **model deployment**
+
+- 💡 My expertise spans Software Engineering, Web Development and Data Science
   
 - 💫 I'm also well versed in **Business Intelligence and Data Analytics**
   

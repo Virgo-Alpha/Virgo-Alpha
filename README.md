@@ -27,6 +27,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href= "https://dev.to/aws-builders/feature-selection-on-zindi-starternotebook-1f7l" target="_blank"><strong>
+Feature Selection On Zindi StarterNotebook
+</strong></a>
+  </li>
 <li><a href= "https://medium.com/@b.mugure/journey-to-original-thought-a4aff023f01c" target="_blank"><strong>
 Journey to Original Thought
 </strong></a>

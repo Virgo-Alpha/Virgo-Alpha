@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **Python (Flask, Django), SQL, Power BI and AWS**
 
-- 📫 Reach me on **b.mugure@alustudent.com**
-
+- 📫 Let's connect and collaborate
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virgo-alpha&label=Profile%20views&color=0e75b6&style=flat" alt="virgo-alpha" /> </p>
 
@@ -24,6 +23,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href= "https://dev.to/aws-builders/deep-fake-easily-made-279i" target="_blank"><strong>
+Deep Fake, Easily made
+</strong></a>
   <li><a href= "https://dev.to/aws-builders/feature-selection-on-zindi-starternotebook-1f7l" target="_blank"><strong>
 Feature Selection On Zindi StarterNotebook
 </strong></a>

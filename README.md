@@ -23,6 +23,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href= "https://dev.to/aws-builders/terraform-on-aws-an-introductory-guide-5dfb" target="_blank"><strong>
+Terraform on AWS: An introductory guide
+</strong></a>
   <li><a href= "https://dev.to/aws-builders/deep-fake-easily-made-279i" target="_blank"><strong>
 Deep Fake, Easily made
 </strong></a>

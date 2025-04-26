@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm Benson King'ori Mugure</h1>
 <h3 align="center">A passionate Software Engineer from Kenya currently residing in Mauritius </h3>
 
+> “It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.”  
+> — Theodore Roosevelt
+
+<h1 align="center">
+  Let's vibe!🎧
+</h1>
+
+<p align="center">
+  Check out what I'm listening to on Spotify! 🎶
+</p>
+
+<p align="center">
+  <a>
+    <i style="font-size: 20px" class="bx bx-tada-hover">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q5rnv4vucr22nykia7ypsixjmy
+&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" align="middle">
+    </i>
+  </a>
+</p>
+
+<br>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/virgo-alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@virgo-alpha" height="30" width="40" /></a>
@@ -70,6 +93,10 @@ communities/groups:
 
 <h3 align="left">Languages and Tools:</h3>
 
+<table>
+  <tr>
+    <td valign="top">
+
 <h4>Programming Languages</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -78,8 +105,11 @@ communities/groups:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
+ </td>
+    <td valign="top">
+
 <h4>Frontend Development</h4>
-<p align="left">
+<p align="right">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
@@ -89,6 +119,11 @@ communities/groups:
   <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
 </p>
+
+ </td>
+   </tr>
+     <tr>
+    <td valign="top">
 
 <h4>Backend & Databases</h4>
 <p align="left">
@@ -102,8 +137,11 @@ communities/groups:
   <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="SQL" width="40" height="40"/></a>
 </p>
 
+ </td>
+    <td valign="top">
+
 <h4>DevOps & Cloud</h4>
-<p align="left">
+<p align="right">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
@@ -114,6 +152,11 @@ communities/groups:
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
 </p>
+
+ </td>
+   </tr>
+     <tr>
+    <td valign="top">
 
 <h4>Data Engineering & Analytics</h4>
 <p align="left">
@@ -126,8 +169,11 @@ communities/groups:
   <a href="https://dlt.readthedocs.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/106233148?s=200&v=4" alt="dlt" width="40" height="40"/></a>
 </p>
 
+ </td>
+    <td valign="top">
+
 <h4>Tools & Platforms</h4>
-<p align="left">
+<p align="right">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://gitlab.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/></a>
   <a href="https://bitbucket.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/></a>
@@ -135,6 +181,8 @@ communities/groups:
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Looker Studio" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/></a>
+ </td>
+ </table>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=virgo-alpha&show_icons=true&locale=en&layout=compact" alt="virgo-alpha" /></p>

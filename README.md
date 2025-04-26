@@ -5,24 +5,12 @@
 > — Theodore Roosevelt
 
 <h1 align="center">
-  Let's vibe!🎧
+  Vibe with me a bit!🎧
+  <a><i style="font-size: 20px" class="bx bx-tada-hover">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q5rnv4vucr22nykia7ypsixjmy&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" align="middle"></img>
+                    </i>
+                  </a>
 </h1>
-
-<p align="center">
-  Check out what I'm listening to on Spotify! 🎶
-</p>
-
-<p align="center">
-  <a>
-    <i style="font-size: 20px" class="bx bx-tada-hover">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q5rnv4vucr22nykia7ypsixjmy
-&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" align="middle">
-    </i>
-  </a>
-</p>
-
-<br>
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

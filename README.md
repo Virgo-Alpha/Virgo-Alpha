@@ -33,7 +33,8 @@ education and certification:
   [
     "Bachelor's  (Hons) in Computing",
     "AWS Certified Cloud Practitioner",
-    "ALX Software Engineering"
+    "ALX Software Engineering",
+    "Data Engineering Certificate from DataTalks Club",
     "Business Intelligence & Data Analyst (BIDA)™ by Corporate Finance Institute® (CFI)",
     "Financial Modeling & Valuation Analyst (FMVA)® by Corporate Finance Institute® (CFI)"
   ]
@@ -62,7 +63,6 @@ technical_background/experience:
   
 currently_learning: ["GCP, Airflow, dbt and Spark"]
 2025 Goals: [
-  "Data Engineering Certificate from DataTalks Club",
   "AWS Certified Solutions Architect Associate",
   "Azure Native Project",
   "Master Data Structures and Algorithms",

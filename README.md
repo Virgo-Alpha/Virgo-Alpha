@@ -187,6 +187,10 @@ communities/groups:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href="https://dev.to/virgoalpha/data-engineering-concepts-a-project-based-introduction-4pka" target="_blank"><strong>
+Data Engineering Concepts: A project based introduction
+</strong></a>
+</li>
 <li><a href= "https://dev.to/aws-builders/terraform-on-aws-an-introductory-guide-5dfb" target="_blank"><strong>
 Terraform on AWS: An introductory guide
 </strong></a>

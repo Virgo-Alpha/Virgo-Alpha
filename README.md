@@ -187,6 +187,10 @@ communities/groups:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href="https://dev.to/virgoalpha/mastering-google-apps-script-free-automation-in-google-workspace-3g1e" target="_blank"><strong>
+Mastering Google Apps Script: Free Automation in Google Workspace
+</strong></a>
+</li>
   <li><a href="https://dev.to/virgoalpha/data-engineering-concepts-a-project-based-introduction-4pka" target="_blank"><strong>
 Data Engineering Concepts: A project based introduction
 </strong></a>

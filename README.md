@@ -32,7 +32,7 @@ current_job: Software Developer
 education and certification:
   [
     "Bachelor's  (Hons) in Computing",
-    "AWS Certified Cloud Practitioner",
+    "AWS Certified Solutions Architect Associate",
     "ALX Software Engineering",
     "Data Engineering Certificate from DataTalks Club",
     "Business Intelligence & Data Analyst (BIDA)™ by Corporate Finance Institute® (CFI)",
@@ -63,7 +63,6 @@ technical_background/experience:
   
 currently_learning: ["GCP, Airflow, dbt and Spark"]
 2025 Goals: [
-  "AWS Certified Solutions Architect Associate",
   "Azure Native Project",
   "Master Data Structures and Algorithms",
   "Improve cybersecurity knowledge"
@@ -187,6 +186,10 @@ communities/groups:
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ul>
+  <li><a href="https://dev.to/virgoalpha/keeping-your-streamlit-app-awake-using-selenium-and-github-actions-4ajd" target="_blank"><strong>
+Keeping your Streamlit app awake using Selenium and Github Actions
+</strong></a>
+</li>
   <li><a href="https://dev.to/virgoalpha/mastering-google-apps-script-free-automation-in-google-workspace-3g1e" target="_blank"><strong>
 Mastering Google Apps Script: Free Automation in Google Workspace
 </strong></a>
